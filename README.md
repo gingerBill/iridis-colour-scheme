@@ -1,4 +1,4 @@
-# Iridis Colour Scheme for Sublime Text and TextMate
+# Iridis Colour Scheme
 
 Iridis is a colour scheme for use with Sublime Text and Textmate. It is developed for working with Go, C++, HTML, and CSS/SASS. 
 
