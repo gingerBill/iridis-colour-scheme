@@ -17,7 +17,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 	<key>name</key>
 	<string>Iridis</string>
 	<key>author</key>
-	<string>Ginger Bill (http://gingerbill.org/</string>
+	<string>Ginger Bill (http://gingerbill.org)</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>settings</key>
@@ -26,33 +26,33 @@ Made for working with Go, C++, HTML, and CSS/SASS
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#2d2d2d</string>
+				<string>#2D2D2D</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
-				<string>#EDE0CE</string>
+				<string>#EDEDED</string>
 				<key>invisibles</key>
-				<string>#3B3A32</string>
+				<string>#3A3A3A</string>
 				<key>lineHighlight</key>
-				<string>#403C37</string>
+				<string>#404040</string>
 				<key>selection</key>
-				<string>#161A1F</string>
+				<string>#161616</string>
 				<key>findHighlight</key>
 				<string>#FFE792</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
 				<key>selectionBorder</key>
-				<string>#222218</string>
+				<string>#222222</string>
 				<key>activeGuide</key>
 				<string>#9D550FB0</string>
 
 				<key>bracketsForeground</key>
-				<string>#F8F2A5</string>
+				<string>#EDEDED</string>
 				<key>bracketsOptions</key>
 				<string>underline</string>
 
 				<key>bracketContentsForeground</key>
-				<string>#F8F2A5</string>
+				<string>#EDEDED</string>
 				<key>bracketContentsOptions</key>
 				<string>underline</string>
 
@@ -68,7 +68,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#75715E</string>
+				<string>#707070</string>
 			</dict>
 		</dict>
 		<dict>
@@ -79,7 +79,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#B0FF22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -93,6 +93,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 				<string>#AE81FF</string>
 			</dict>
 		</dict>
+
 		<dict>
 			<key>name</key>
 			<string>Built-in constant</string>
@@ -124,6 +125,8 @@ Made for working with Go, C++, HTML, and CSS/SASS
 			<dict>
 				<key>fontStyle</key>
 				<string></string>
+				<key>foreground</key>
+				<string>#40C0FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -134,7 +137,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#40C0FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -147,7 +150,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF5D38</string>
+				<string>#FF5533</string>
 			</dict>
 		</dict>
 		<dict>
@@ -160,7 +163,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#40C0FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -173,7 +176,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#B0FF22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -186,7 +189,18 @@ Made for working with Go, C++, HTML, and CSS/SASS
 				<key>fontStyle</key>
 				<string>italic underline</string>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#40C0FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Functions</string>
+			<key>scope</key>
+			<string>entity.name.function, meta.require, support.function.any-method</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF5533</string>
 			</dict>
 		</dict>
 		<dict>
@@ -199,7 +213,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#B0FF22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -212,7 +226,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#FF5D38</string>
+				<string>#FF5533</string>
 			</dict>
 		</dict>
 		<dict>
@@ -225,7 +239,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF5D38</string>
+				<string>#FF5533</string>
 			</dict>
 		</dict>
 		<dict>
@@ -238,7 +252,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#B0FF22</string>
 			</dict>
 		</dict>
 		<dict>
@@ -251,7 +265,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#FF5D38</string>
+				<string>#FF5533</string>
 			</dict>
 		</dict>
 		<dict>
@@ -264,7 +278,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#40C0FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -277,7 +291,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#40C0FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -299,7 +313,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FF5D38</string>
+				<string>#FF5533</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
@@ -339,7 +353,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#75715E</string>
+				<string>#707070</string>
 			</dict>
 		</dict>
 		<dict>
@@ -350,7 +364,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FF5D38</string>
+				<string>#FF5533</string>
 			</dict>
 		</dict>
 		<dict>
@@ -361,7 +375,7 @@ Made for working with Go, C++, HTML, and CSS/SASS
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#A6E22E</string>
+				<string>#B0FF22</string>
 			</dict>
 		</dict>
 		<dict>
