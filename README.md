@@ -1,8 +1,8 @@
 # Iridis Colour Scheme
 
-Iridis is a colour scheme for use with Sublime Text and Textmate. It is developed for working with Go, C++, HTML, and CSS/SASS. 
+Iridis is a colour scheme for use with Sublime Text and Textmate. It is developed for working with Go, C++, JSON, HTML, and CSS/SASS. 
 
-I use Iridis with the [SpaceGray Eighties Theme][1].
+I use Iridis with the [SpaceGray Themes][1].
 
 ## Installation
 
@@ -16,14 +16,14 @@ I use Iridis with the [SpaceGray Eighties Theme][1].
 
 #### Manual Installation
 
-1. Download the `Iridis.tmTheme` file
+1. Download the `Iridis *.tmTheme` file
 2. *Browse Packages* from the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`)
-3. Copy the `Iridis.tmTheme` file to `Packages/User`
+3. Copy the `Iridis *.tmTheme` file to `Packages/User`
 
 ### TextMate
 
-1. Download the `Iridis.tmTheme` file
-2. Copy the `Iridis.tmTheme` file to `~/Library/Application Support/TextMate/Themes`
+1. Download the `Iridis *.tmTheme` file
+2. Copy the `Iridis *.tmTheme` file to `~/Library/Application Support/TextMate/Themes`
 
 ## License
 ### The MIT License (MIT)
