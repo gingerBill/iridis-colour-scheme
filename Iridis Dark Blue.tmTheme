@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
 ======================================================================
-Iridis Blue
+Iridis Dark Blue
 ======================================================================
 A Sublime Text 2-3 / Textmate theme.
 Copyright (c) 2015 Ginger Bill.
@@ -29,9 +29,9 @@ Made for working with Go, C/C++, JSON, HTML, and CSS/SASS
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#2b303b</string>
+				<string>#1c1f26</string>
 				<key>divider</key>
-				<string>#2b303b</string>
+				<string>#1c1f26</string>
 				<key>caret</key>
 				<string>#d2d7e0</string>
 				<key>foreground</key>

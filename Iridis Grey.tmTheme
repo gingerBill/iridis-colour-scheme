@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
 ======================================================================
-Iridis Blue
+Iridis Grey
 ======================================================================
 A Sublime Text 2-3 / Textmate theme.
 Copyright (c) 2015 Ginger Bill.
@@ -16,7 +16,7 @@ Made for working with Go, C/C++, JSON, HTML, and CSS/SASS
 	<key>name</key>
 	<string>Iridis Blue Neue</string>
 	<key>uuid</key>
-	<string>fee491ea-f512-48ea-8cbc-c52ab3596beb</string>
+	<string>5c518236-21bd-11e6-b67b-9e71128cae77</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
@@ -29,19 +29,19 @@ Made for working with Go, C/C++, JSON, HTML, and CSS/SASS
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#2b303b</string>
+				<string>#262626</string>
 				<key>divider</key>
-				<string>#2b303b</string>
+				<string>#262626</string>
 				<key>caret</key>
-				<string>#d2d7e0</string>
+				<string>#e0e0e0</string>
 				<key>foreground</key>
-				<string>#d2d7e0</string>
+				<string>#e0e0e0</string>
 				<key>invisibles</key>
-				<string>#3b3a32</string>
+				<string>#3b3b3b</string>
 				<key>lineHighlight</key>
-				<string>#272b34</string>
+				<string>#333333</string>
 				<key>selection</key>
-				<string>#4f5b66</string>
+				<string>#333333</string>
 			</dict>
 		</dict>
 		<dict>
@@ -52,7 +52,7 @@ Made for working with Go, C/C++, JSON, HTML, and CSS/SASS
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#6e7a94</string>
+				<string>#505050</string>
 			</dict>
 		</dict>
 		<dict>
@@ -109,7 +109,7 @@ Made for working with Go, C/C++, JSON, HTML, and CSS/SASS
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#d2d7e0</string>
+				<string>#e0e0e0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -311,7 +311,7 @@ Made for working with Go, C/C++, JSON, HTML, and CSS/SASS
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#d2d7e0</string>
+				<string>#e0e0e0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -324,7 +324,7 @@ Made for working with Go, C/C++, JSON, HTML, and CSS/SASS
 				<key>background</key>
 				<string>#40c0ff</string>
 				<key>foreground</key>
-				<string>#d2d7e0</string>
+				<string>#e0e0e0</string>
 			</dict>
 		</dict>
 		<dict>
